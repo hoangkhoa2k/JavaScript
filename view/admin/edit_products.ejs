@@ -1,0 +1,32 @@
+<%- include('head.ejs'); %>
+    <title>Edit Products</title>
+    </head>
+
+    <body>
+        <!-- Left Panel -->
+        <%- include('nav.ejs'); %>
+            <!-- /Widgets -->
+            <!--  Traffic  -->
+            <div class="col-lg-14">
+                <div class="card">
+                    <div class="card-header">
+                        <h2><strong class="card-title">Edit Products</strong></h2>
+                    </div>
+                    <div class="card-body card-block" id="table-body1"></div>
+                </div>
+            </div>
+            <script>
+                function anh() {
+                    var hinh = document.getElementById('anhcu');
+                    var khunganh = document.getElementById('images');
+                    var anh = khunganh.value
+                    var hinhanh = anh.slice(12, anh.length)
+                    hinh.src = '/products-images/' + hinhanh
+                }
+            </script>
+            <!-- Modal - Calendar - Add New Event -->
+            <%- include('footer.ejs'); %>
+                <script src="/js/edit_product.js"></script>
+    </body>
+
+    </html>

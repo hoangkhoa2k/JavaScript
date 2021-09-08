@@ -1,0 +1,109 @@
+<%- include('../partials/head.ejs'); %>
+    <title>Login</title>
+    </head>
+
+    <body>
+        <div class="page">
+            <!-- Header -->
+            <%- include('../partials/header.ejs'); %>
+                <!-- end header -->
+                <!-- Navbar -->
+                <%- include('../partials/nav.ejs'); %>
+                    <!-- end nav -->
+                    <section class="main-container col1-layout">
+                        <div class="main container">
+                            <div class="account-login">
+                                <div class="page-title">
+                                    <h2>Login or Create an Account</h2>
+                                </div>
+                                <fieldset class="col2-set">
+                                    <legend>Login or Create an Account</legend>
+                                    <div class="col-1 new-users"><strong>Create an Account</strong>
+                                        <div class="content">
+                                            <p>By creating an account with our store, you will be able to move through the checkout process faster, store multiple shipping addresses, view and track your orders in your account and more.</p>
+                                            <div class="static-contain">
+                                                <fieldset class="group-select">
+                                                    <ul>
+                                                        <li id="billing-new-address-form">
+                                                            <fieldset>
+                                                                <legend>New Address</legend>
+                                                                <input type="hidden" name="billing[address_id]" value="" id="billing:address_id">
+                                                                <ul>
+                                                                    <li>
+                                                                        <div class="customer-name">
+                                                                            <div class="input-box name-firstname">
+                                                                                <label for="fullname"> Full Name<span class="required">*</span></label>
+                                                                                <br>
+                                                                                <input type="text" id="fullname" name="fullname" value="" title="Full Name" class="input-text ">
+                                                                            </div>
+                                                                            <div class="input-box name-lastname">
+                                                                                <label for="email"> Email <span class="required">*</span> </label>
+                                                                                <br>
+                                                                                <input type="text" id="email" name="email" value="" title="Email" class="input-text">
+                                                                            </div>
+                                                                        </div>
+                                                                    </li>
+                                                                    <li>
+                                                                        <div class="input-box">
+                                                                            <label for="date">Date<span class="required">*</span></label>
+                                                                            <br>
+                                                                            <input type="text" id="date" name="date" value="" title="Date" class="input-text">
+                                                                        </div>
+                                                                        <div class="input-box">
+                                                                            <label for="phone">Phone <span class="required">*</span></label>
+                                                                            <br>
+                                                                            <input type="text" name="phone" id="phone" value="" title="Phone" class="input-text validate-email">
+                                                                        </div>
+                                                                    </li>
+                                                                    <li>
+                                                                        <label for="address">Address <span class="required">*</span></label>
+                                                                        <br>
+                                                                        <div style="float:none">
+                                                                            <textarea name="address" id="address" title="Address" class="required-entry input-text" cols="5" rows="3"></textarea>
+                                                                        </div>
+                                                                    </li>
+                                                                </ul>
+                                                            </fieldset>
+                                                        </li>
+                                                        <p class="require"><em class="required">* </em>Required Fields</p>
+                                                        <div class="buttons-set">
+                                                            <button onclick="submitForm()" type="button" title="Submit" class="button submit"> <span> Submit </span> </button>
+                                                        </div>
+                                                    </ul>
+                                                </fieldset>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-2 registered-users"><strong>Sign in to your account</strong>
+                                        <div class="content">
+                                            <p>If you have an account with us, please log in.</p>
+                                            <ul class="form-list">
+                                                <li>
+                                                    <label for="email">Email<span class="required">*</span></label>
+                                                    <br>
+                                                    <input type="text" title="Email" class="input-text required-entry" id="email1" value="" name="email1">
+                                                </li>
+                                                <li>
+                                                    <label for="pass">Password <span class="required">*</span></label>
+                                                    <br>
+                                                    <input type="password" title="Password" id="password" class="input-text required-entry validate-password" name="login[password]">
+                                                </li>
+                                            </ul>
+                                            <p class="required">* Required Fields</p>
+                                            <div class="buttons-set">
+                                                <button onclick="submitForm()" id="send2" name="send" type="button" class="button login"><span>Login</span></button>
+                                                <a class="forgot-word" href="http://demo.magentomagik.com/computerstore/customer/account/forgotpassword/">Forgot Your Password?</a> </div>
+                                        </div>
+                                    </div>
+                                </fieldset>
+                            </div>
+                            <br><br><br><br><br>
+                        </div>
+                    </section>
+                    <!-- Footer -->
+                    <%- include('../partials/footer.ejs'); %>
+                        <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+                        <script src="/js/dangky.js"></script>
+    </body>
+
+    </html>

@@ -1,0 +1,538 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "cate_id": 1,
+      "price": 230000,
+      "discount": 210000,
+      "images": "products-images/product1.jpg",
+      "name": "Ghế thư giãn Viking",
+      "link": "https://thegioinem.com/ghe-sofa-bang-ck-b34.html",
+      "detail": "Chất liệu: Bọc ghế vải lanh không phải màu đảm bảo ngồi thoáng khí.Lớp đệm sofa ngồi êm ái Hộp đựng đồ kiêm Ghế Ngồi 2 In1 Đựng Đồ Đa Năng có thể dùng làm ghế ngồi thoải mái vừa dùng làm ngăn đựng đồ đạc đa năng bên trong thân ghế Vật dụng đựng bên trong thân hộp sẽ không bị mốc hoặc thấm nước nên được bảo quản an toàn tuyệt đối. Kiểu dáng gọn nhẹ dễ di chuyển và sử dụng trong nhà.Tiết kiệm diện tích tối đa: Vừa có nơi cất giữ đồ hiệu quả, Vừa làm ghế cực chắc chắn, Chất liệu cực bền và chăc chắnMột chiếc ghế vừa có thể ngồi chắc chắn vừa kiêm luôn chức năng lưu trữ đồ dùng là một chiếc ghế không thể thiếu trong không gian phòng nhất là những tín đồ nghiện decor như mình nè "
+    },
+    {
+      "id": 2,
+      "cate_id": 2,
+      "price": 310000,
+      "discount": 290000,
+      "images": "products-images/product2.jpg",
+      "name": "Giường ngủ cao cấp",
+      "link": "https://thegioinem.com/ghe-sofa-bang-ck-b34.html",
+      "detail": "Giường da hiện đại kiểu mới GD315 với thành cao tránh xê dịch đệm, góc bo tròn tránh va đập. Với gam màu đẹp mắt, chiếc giường toát lên sự ấm cúng giúp đưa gia chủ vào giấc ngủ ngon và sâu. Hơn thế nữa, để đem tới những lựa chọn đa dạng cho bạn, chúng tôi cũng sẽ tư vấn chọn màu kỹ càng sao cho hợp với mệnh và nội thất bên trong căn hộ của bạn. Có như vậy, sau một ngày làm việc vất vả, bạn mới tận hưởng được trọn vẹn sự êm ái mà chiếc giường này đem tới. Giường da hiện đại GD315 với các chất liệu sản xuất được nhập khẩu, lựa chọn kỹ lưỡng mang đến chất lượng hoàn hảo nhất. Các chi tiết gỗ đa qua xử lý giúp hạn chế mối mọt. Hệ các thanh nan và thép hợp kim giúp chịu được tải trọng lớn lên đến 350kg. Màu sắc phần da bọc xung quanh và tựa đầu của giường ngủ đôi này đa dạng cho bạn thoải mái lựa chọn."
+    },
+    {
+      "id": 3,
+      "cate_id": 3,
+      "price": 560000,
+      "discount": 540000,
+      "images": "products-images/product3.jpg",
+      "name": "Sofa giường BR",
+      "link": "https://thegioinem.com/ghe-sofa-bang-ck-b34.html",
+      "detail": "Mẫu sofa góc da trơn SF314 hiện đại phòng khách rộng 4,5 chỗ ngồi với nhiều kích thước cho bạn thoải mái lựa chọn. Sofa tiếp khách hiện đại đơn giản, dễ phối hợp với nhiều đồ nội thất. Ghế sofa góc chữ L SF314 da trơn phòng khách rộng với 4,5 chỗ ngồi cho bạn không gian tiếp khách rộng thoải mái. Chất da trơn mang đến cảm giác hoàn toàn mới. Bề mặt da bóng căng tràn với lớp mút xếp dày dặn hướng đến tầm nhìn mới lạ và trải nghiêm mát lạnh khi sử dụng."
+    },
+    {
+      "id": 4,
+      "cate_id": 4,
+      "price": 450000,
+      "discount": 430000,
+      "images": "products-images/product4.jpg",
+      "name": "Giường ngủ hiện đại",
+      "link": "https://sofavila.vn/giuong-ngu-da-nang-7012",
+      "detail": "Mẫu giường bọc da thế hệ mới GD315 với thiết kế tránh lệch đệm, ga drap trải nhờ khung giữ chắc chắn phía cuối giường. Giường da với ưu điểm sở hữu kiểu dáng thiết kế hiện đại, màu sắc bắt mắt và êm ái được rất nhiều hộ gia đình lựa chọn. Giường da hiện đại kiểu mới GD315 với thành cao tránh xê dịch đệm, góc bo tròn tránh va đập. Với gam màu đẹp mắt, chiếc giường toát lên sự ấm cúng giúp đưa gia chủ vào giấc ngủ ngon và sâu. Hơn thế nữa, để đem tới những lựa chọn đa dạng cho bạn, chúng tôi cũng sẽ tư vấn chọn màu kỹ càng sao cho hợp với mệnh và nội thất bên trong căn hộ của bạn. Có như vậy, sau một ngày làm việc vất vả, bạn mới tận hưởng được trọn vẹn sự êm ái mà chiếc giường này đem tới. "
+    },
+    {
+      "id": 5,
+      "cate_id": 5,
+      "price": 890000,
+      "discount": 870000,
+      "images": "products-images/product5.jpg",
+      "name": "Bàn tròn gỗ đẹp",
+      "link": "https://thegioinem.com/ghe-sofa-bang-ck-b34.html",
+      "detail": "Bàn tròn gỗ đẹp hiện đang là xu hướng thiết kế bàn trà được ưa chuộng nhất hiện nay. Đặc biệt đối với những không gian phòng khách mang phong cách hiện đại, sang trọng thì mẫu bàn trà này phù hợp hơn bao giờ hết. Hãy cùng tham khảo bộ bàn trà đôi hình tròn mặt kính BT121 mới nhất của LUXCASA, sản phẩm chắc chắn sẽ làm bạn hài lòng. Để thuận tiện cho việc bố trí nội thất, bạn có thể lựa chọn linh hoạt kích thước của bàn, chúng tôi sẽ hỗ trợ gia công sản phẩm theo đúng yêu cầu của bạn."
+    },
+    {
+      "id": 6,
+      "cate_id": 6,
+      "price": 760000,
+      "discount": 740000,
+      "images": "products-images/product6.jpg",
+      "name": "Bàn tròn gỗ Veneer",
+      "link": "https://thegioinem.com/ghe-sofa-bang-ck-b34.html",
+      "detail": "Bàn trà gỗ tạo nên sự sang trọng, hiện đại cho không gian phòng khách mỗi căn hộ. Hiện tại ở showroom của LUXCASA mẫu bàn này luôn nhận được sự quan tâm lớn từ phía khách hàng. Mời bạn đọc cùng chúng tôi tìm hiểu chi tiết về sản phẩm này. Mẫu bàn trà phòng khách BT119 sở hữu  kiểu dáng thiết kế vừa hiện đại vừa tiện nghi, sang trọng. Cấu tạo bàn đơn giản mà không kém phần tinh tế. Mặt bàn hình chữ nhật nhẵn mịn, mang màu đen quý phái. Tầng dưới là hai ngăn kéo đựng đồ rộng rãi đồng màu với mặt bàn tạo nên sự thống nhất đẹp mắt. Các cạnh và góc bàn vuông vức, chắc chắn. "
+    },
+    {
+      "id": 7,
+      "cate_id": 7,
+      "price": 720000,
+      "discount": 690000,
+      "images": "products-images/product7.jpg",
+      "name": "Bàn kính sang trọng",
+      "link": "https://thegioinem.com/ghe-sofa-bang-ck-b34.html",
+      "detail": "Một chiếc bàn trà đẹp mắt, phù hợp với không gian nhà bạn sẽ giúp tô điểm thêm vẻ đẹp của không gian phòng khách. Nếu thời điểm này bạn vẫn chưa biết chọn cho căn hộ của mình mẫu bàn trà nào thì hãy thử khám phá bàn trà hình chữ nhật BT118 mới ra mắt của LUXCASA xem sao nhé. Biết đâu sản phẩm này chính là thứ bạn tìm kiếm bấy lâu nay. Kệ đựng đồ trải theo chiều dài bàn rất tiện lợi khi gia chủ đựng đồ dùng thường ngày. Ba khoang tủ rộng rãi được chia đều diện tích sẽ là nơi lý tưởng giúp bạn cất giữ những vật dụng cần bảo quản kỹ. "
+    },
+    {
+      "id": 8,
+      "cate_id": 8,
+      "price": 310000,
+      "discount": 270000,
+      "images": "products-images/product8.jpg",
+      "name": "Sopha dài phòng khách",
+      "link": "https://thegioinem.com/ghe-sofa-bang-ck-b34.html",
+      "detail": "Sofa sang trọng cao cấp SF 312 phong cách Italia thể hiện đẳng cấp sống, gout thẩm mỹ cá tính của gia chủ. Ghế sofa phong cách Ý này có thể kê đặt ở nhiều khu vực khác nhau trong phòng. Kiểu dáng ghế đơn giản dễ phù hợp với nhiều phong cách trang trí từ hiện đại đến tân cổ điển quý phái. Sofa chữ L SF312 phong cách châu Âu với kiểu dáng thanh thoát ùng gối tựa nâng hạ nhiều cấp độ mang đến sự thoải mái lớn nhất cho người dùng. Đồng thời nó còn là điểm nhấn thu hút cho không gian sảnh chờ nhà hàng, sofa văn phòng hay chung cư, phòng nghỉ..."
+    },
+    {
+      "id": 9,
+      "cate_id": 9,
+      "price": 670000,
+      "discount": 650000,
+      "images": "products-images/product9.jpg",
+      "name": "Sopha giường đẹp hiện đại",
+      "link": "https://thegioinem.com/ghe-sofa-bang-ck-b34.html",
+      "detail": "Ghế sofa kiểu mới SF311 bọc da cao cấp với gối tựa đa năng linh động, chân khung thép chắc chắn hình dáng mới. Sofa góc chữ L kiểu mới với gối tựa đa năng tiện lợi. Sô pha bọc da cao cấp Luxcasa với nhiều màu sắc, kích thước mang thỏa mãn mọi nhu cầu tiêu dùng của bạn. Sofa bọc da hiện đại kiểu mới SF311 với tay vịn dày, gối tựa tròn linh động tùy ý đặt. Kiểu dáng chân ghế đặc biệt: thay vì dùng các chân trụ tròn hoặc chân bản vuông thì tại mẫu sofa hiện đại này sử dụng chân chữ Y bằng thép cường lực làm tăng điểm cân bằng."
+    },
+    {
+      "id": 10,
+      "cate_id": 10,
+      "price": 230000,
+      "discount": 120000,
+      "images": "products-images/product10.jpg",
+      "name": "Ghế sopha kem",
+      "detail": "Ghế sofa nỉ Kích thước: 65*61*70cm Hàng lắp ghép nên trong quá trình vận chuyển hàng sẽ được tháo rời ra, (nhà SX đã khoan lỗ sẵn) khách hàng về tự ghép và vặn ốc vào là được.Chất liệu: Vải nỉ, chân gỗ thông phủ melamin chống thấm, dễ dàng vệ sinh, lau chùi Thiết kế theo phong cách hiện đại, tiện nghi,sang trọng, tiết kiệm diện tích Bề mặt gia công tỉ mỉ, sơn PU nhẵn mịn, đẹp mắt.Bộ dụng cụ đầy đủ được cung cấp sẵn, dễ dàng lắp đặt."
+    },
+    {
+      "id": 11,
+      "cate_id": 11,
+      "price": 810000,
+      "discount": 610000,
+      "images": "products-images/product11.jpg",
+      "name": "Ghế sopha kép",
+      "link": "https://thegioinem.com/ghe-sofa-bang-ck-b34.html",
+      "detail": "Trong các văn phòng hiện nay, ngoài bàn ghế làm việc và tủ hồ sơ, sofa được sử dụng rất nhiều. Những bộ sofa này vừa có chức năng tiếp khách vừa là một món đồ nội thất trang trí cho không gian thêm phần ấn tượng. Ngoài ra, một số người cần tận dụng sofa để làm chỗ nghỉ trưa êm ái thoải mái. Trong đó bộ sofa văn phòng ấn tượng SP130 đang ngày càng được nhiều người ưa thích. Tất cả tạo nên một phong cách kiến trúc nội thất độc đáo, khác biệt hoàn toàn với những phong cách thiết kế thông thường."
+    },
+    {
+      "id": 12,
+      "cate_id": 12,
+      "price": 23000,
+      "discount": 18000,
+      "images": "products-images/product12.jpg",
+      "name": "Ghế sopha đen",
+      "link": "https://thegioinem.com/ghe-sofa-goc-ck-l05.html",
+      "detail": "Set sô pha phủ da đẹp da công ty SP132 có thiết kế đơn giản gọn gàng với các đường nét thẳng tắp theo xu hướng hiện đại. Chính vì thế, sản phẩm cực kỳ thích hợp cho môi trường văn phòng, công ty, doanh nghiệp. Đặc biệt, nhờ thiết kế này mà khi đặt trong văn phòng tiếp khách, Set sô pha da SP132 sẽ giúp không gian định hình rõ phong cách. Màu sắc của ghế là các màu trầm tối như nâu, đen thể hiện sự sang trọng, thanh lịch.Đây là những màu sắc khá nổi trong mọi không gian và đặc biệt là không khiến mọi người cảm thấy chói mắt.Hình dáng các mảng của ghế là hình chữ nhật trải dài bề ngang và chiều rộng hẹp nên có thể tối ưu được diện tích."
+    },
+    {
+      "id": 13,
+      "cate_id": 13,
+      "price": 810000,
+      "discount": 610000,
+      "images": "products-images/product13.jpg",
+      "name": "Ghế sopha cao cấp",
+      "link": "https://thegioinem.com/ghe-sofa-bang-ck-b34.html",
+      "detail": "Trong các văn phòng hiện nay, bên cạnh những bộ bàn ghế làm việc luôn có một bộ sofa tiếp khách. Với thiết kế ấn tượng, những bộ sofa này còn có tác dụng trang trí cho không gian thêm phần ấn tượng. Và trên thị trường hiện nay có quá nhiều mẫu sofa văn phòng khiến bạn đau đầu không biết nên chọn thiết kế nào? Vậy thì đừng bỏ qua mẫu sofa văn phòng bọc vải SP131 sau đây. Với những ưu điểm vượt trội, Sofa văn phòng bọc vải SP131 xuất hiện ngày càng nhiều văn phòng giám đốc sử dụng để tiếp khách. Ngoài ra một số công ty còn đặt bộ sofa trong phòng chờ cho khách hàng."
+    },
+    {
+      "id": 14,
+      "cate_id": 14,
+      "price": 34000,
+      "discount": 21000,
+      "images": "products-images/product14.jpg",
+      "name": "Ghế sopha dài",
+      "detail": "Việc bài trí sofa đúng cách không chỉ mang lại vẻ đẹp thanh thoát cho căn phòng mà còn mang tài vận và may mắn đến cho gia chủ."
+    },
+    {
+      "id": 15,
+      "cate_id": 15,
+      "price": 83000,
+      "discount": 61000,
+      "images": "products-images/product15.jpg",
+      "name": "Giường ngủ cao cấp",
+      "link": "https://thegioinem.com/ghe-sofa-bang-ck-b34.html",
+      "detail": "Kiểu dáng hiện đại, sang trọng giữa khung kính hình bầu dục và khung cao cấp Khung bằng chất liệu gỗ xoan đào cứng chắc và phủ lớp sơn PU láng mịn, bền đẹp"
+    },
+    {
+      "id": 16,
+      "cate_id": 16,
+      "price": 35000,
+      "discount": 52000,
+      "images": "products-images/product16.jpg",
+      "name": "Sopha giường Hàn Quốc",
+      "link": "https://thegioinem.com/ghe-sofa-bang-ck-b34.html",
+      "detail": "Sofa giường nằm trong bộ sản phẩm sofa giường có phong cách thiết kế sang trọng, kiểu dáng hiện đại, được chú ý tới từng đường nét, khung Sofa giường được làm từ chất liệu gỗ tự nhiên. Với lớp đệm mút có độ mềm cao và thông thoáng lớn, không bị xẹp lún."
+    },
+    {
+      "id": 17,
+      "cate_id": 17,
+      "price": 120000,
+      "discount": 87000,
+      "images": "products-images/product17.jpg",
+      "name": "Ghế dài cao cấp",
+      "link": "https://thegioinem.com/ghe-sofa-bang-ck-b34.html",
+      "detail": "Một chiếc ghế sofa văng đơn đẹp có kiểu dáng độc đáo, màu sắc tươi tắn phù hợp với phong cách thiết kế của ngôi nhà nói chung và màu sắc của các đồ nội thất khác nói riêng sẽ khiến ngôi nhà có được sự đồng nhất, Sofa đẹp còn tạo nên sự ấn tượng cho khách khi bước chân vào ngôi nhà."
+    },
+    {
+      "id": 18,
+      "cate_id": 18,
+      "price": 90000,
+      "discount": 72000,
+      "images": "products-images/product18.jpg",
+      "name": "Ghế ăn Crono",
+      "link": "https://thegioinem.com/ghe-sofa-bang-ck-b34.html",
+      "detail": "Mang vẻ đẹp tinh tế và đạt được khá nhiều giải thưởng về thiết kế, cùng với “ khả năng “ có thể thích hợp với mọi không gian nên ghế Crono khá nổi tiếng và được ưa chuộng khắp nơi trên thế giới."
+    },
+    {
+      "id": 19,
+      "cate_id": 19,
+      "price": 83000,
+      "discount": 61000,
+      "images": "products-images/product19.jpg",
+      "name": "Sofa Bed Sofa giường",
+      "detail": "Sofa giường (Sofa Bed), một phát minh được sáng tạo ra để phục vụ cho nhu cầu của con người thời đại 4.0. Khi những ngôi nhà càng bị thu hẹp, cư dân chuyển tới những căn hộ nhỏ, chung cư mini thì Sofa giường thực sự có nhiều lợi ích tuyệt vời mà bạn không thể bỏ qua."
+    },
+    {
+      "id": 20,
+      "cate_id": 20,
+      "price": 810000,
+      "discount": 610000,
+      "images": "products-images/product20.jpg",
+      "name": "Ghế Sofa Bed đen",
+      "detail": "Ghế sofa bed đa năng giá nội địa siêu rẻ chỉ có tại Gỗ Xanh, không những thế, bạn còn được hỗ trợ giao hàng đến tận nhà nếu bạn sống ở khu vực nội thành HCM."
+    },
+    {
+      "id": 21,
+      "cate_id": 21,
+      "price": 810000,
+      "discount": 610000,
+      "images": "products-images/product21.jpg",
+      "name": "Ghế sopha đơn êm ái",
+      "detail": "Với sự kết hợp hài hoà về màu sắc, mẫu mã và không gian kiến trúc của ngôi nhà. Những tông màu hiện đại, thiết kế trẻ trung theo từng phong cách. Công ty sản xuất sofa đơn đẹp rẻ tại 356 Bạch Mai sẽ mang đến cho bạn những bộ ghế sofa giá rẻ hợp với không gian sống."
+    },
+    {
+      "id": 22,
+      "cate_id": 22,
+      "price": 810000,
+      "discount": 610000,
+      "images": "products-images/product22.jpg",
+      "name": "Ghế Sofa Bed đen",
+      "detail": "Kiểu dáng hiện đại, sang trọng giữa khung kính hình bầu dục và khung cao cấp Khung bằng chất liệu gỗ xoan đào cứng chắc và phủ lớp sơn PU láng mịn, bền đẹp"
+    },
+    {
+      "id": 23,
+      "cate_id": 23,
+      "price": 810000,
+      "discount": 610000,
+      "images": "products-images/product23.jpg",
+      "name": "Bàn cà phê Jakob Stockholm",
+      "detail": "Sofa đơn mã 069 sẽ giúp bạn tạo nên nét tươi mới, quý phái cho không gian phòng khách của bạn trong những ngày xuân ấm áp này. Chúng tôi là công ty sản xuất và cung cấp ghế sofa đơn giá rẻ với chất lượng tốt nhất,"
+    },
+    {
+      "id": 24,
+      "cate_id": 24,
+      "price": 810000,
+      "discount": 610000,
+      "images": "products-images/product24.jpg",
+      "name": "Ghế sopha Dakug Rtocdholp",
+      "detail": "Với nhiều mẫu mã thiết kế đa dạng theo phong cách khác nhau. Những sản phẩm sofa giá rẻ tại đây tự hào mang đến cho bạn không gian sống hoàn hảo nhất."
+    },
+    {
+      "id": 25,
+      "cate_id": 25,
+      "price": 810000,
+      "discount": 610000,
+      "images": "products-images/product25.jpg",
+      "name": "Ghế sopha thời trang",
+      "detail": "Kiểu dáng hiện đại, sang trọng giữa khung kính hình bầu dục và khung cao cấp Khung bằng chất liệu gỗ xoan đào cứng chắc và phủ lớp sơn PU láng mịn, bền đẹp"
+    },
+    {
+      "images": "products-images/product21.jpg",
+      "name": "Khoa",
+      "price": "100",
+      "discount": "1000",
+      "detail": "Mẫu giường bọc da thế hệ mới GD315 với thiết kế tránh lệch đệm",
+      "id": 26
+    },
+    {
+      "images": "products-images/product6.jpg",
+      "name": "ssss",
+      "price": "100",
+      "discount": "1000",
+      "detail": "Ghế sofa bed đa năng giá nội địa siêu rẻ chỉ có tại Gỗ Xanh, không những thế, bạn còn được hỗ trợ",
+      "id": 32
+    },
+    {
+      "cate_id": 5,
+      "images": "products-images/product8.jpg",
+      "name": "Dung cutegxvhcbjbak",
+      "price": "100",
+      "discount": "1000",
+      "detail": "ádfghjwgrbbádfghjwgrbbádfghjwgrbbádfghjwgrbbádfghjwgrbb",
+      "id": 33
+    }
+  ],
+  "user": [
+    {
+      "id": 1,
+      "name": "Khoa",
+      "address": "Cà Mau",
+      "email": "Khoa@gmail.com",
+      "phone": "0857491449",
+      "date": "2000/07/13"
+    },
+    {
+      "id": 2,
+      "name": "Dung",
+      "address": "Đồng Tháp",
+      "email": "Dung@gmail.com",
+      "phone": "0388962635",
+      "date": "2001/09/21"
+    },
+    {
+      "name": "Khoa",
+      "email": "khoa@gmail.com",
+      "date": "2000-12-13",
+      "phone": "0857491449",
+      "address": "Phường 2, Mỹ Tho - Tiền Giang",
+      "id": 3
+    },
+    {
+      "name": "Khoa",
+      "email": "khoanguyen.491449@gmail.com",
+      "phone": "0857491449",
+      "date": "2000-12-13",
+      "address": "Phường 2, Mỹ Tho - Tiền Giang",
+      "id": 4
+    },
+    {
+      "name": "abcd",
+      "email": "abc@gmail.com",
+      "phone": "0857491449",
+      "date": "2021-09-21",
+      "address": "Phường 2, Mỹ Tho - Tiền Giang",
+      "id": 5
+    }
+  ],
+  "comment": [
+    {
+      "id": 1,
+      "user_id": 1,
+      "product_id": 1,
+      "star": "100",
+      "name": "Khoa",
+      "date": "21/21/2021",
+      "content": "Đẹp quá"
+    },
+    {
+      "id": 2,
+      "user_id": 2,
+      "product_id": 2,
+      "star": "80",
+      "name": "Dung",
+      "date": "21/21/2021",
+      "content": "Oke"
+    },
+    {
+      "product_id": 3,
+      "star": "100",
+      "date": "18/4/2021",
+      "name": "Dung cute",
+      "content": "Cute ghê",
+      "id": 3
+    },
+    {
+      "product_id": 3,
+      "star": "100",
+      "date": "18/4/2021",
+      "name": "Dung cute",
+      "content": "abc",
+      "id": 4
+    },
+    {
+      "product_id": "1",
+      "star": "100",
+      "date": "18/4/2021",
+      "name": "Dung",
+      "content": "Ghế đẹp quá mn ơi",
+      "id": 5
+    },
+    {
+      "product_id": "4",
+      "star": "80",
+      "date": "22/4/2021",
+      "name": "Khoa",
+      "content": "ASM 10đ",
+      "id": 6
+    },
+    {
+      "product_id": "1",
+      "star": "40",
+      "date": "23/4/2021",
+      "name": "manbcdjnlk",
+      "content": "gaf quas",
+      "id": 7
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Ghế"
+    },
+    {
+      "id": 2,
+      "name": "Sofa"
+    },
+    {
+      "id": 3,
+      "name": "Bàn"
+    },
+    {
+      "id": 4,
+      "name": "Giường"
+    }
+  ],
+  "orders": [
+    {
+      "time_order": "22/1/2021",
+      "name": "Khoa",
+      "address": "Phường 2, Mỹ Tho - Tiền Giang",
+      "email": "khoa@gmail.com",
+      "phone": "0857491449",
+      "date": "13/07/2000",
+      "total_money": "18000",
+      "quantity": 1,
+      "id": 1
+    },
+    {
+      "time_order": "22/2/2021",
+      "name": "Khoa",
+      "address": "Đồng Tháp",
+      "email": "dung@gmail.com",
+      "phone": "0857491449",
+      "date": "21/09/2001",
+      "total_money": "52000",
+      "quantity": 1,
+      "id": 2
+    },
+    {
+      "time_order": "22/3/2021",
+      "name": "Khoa",
+      "address": "Phường 2, Mỹ Tho - Tiền Giang",
+      "email": "khoanguyen.491449@gmail.com",
+      "phone": "0857491449",
+      "date": "13/07/2000",
+      "total_money": "21000",
+      "quantity": 1,
+      "id": 3
+    },
+    {
+      "time_order": "22/3/2021",
+      "name": "Khoa",
+      "address": "Phường 2, Mỹ Tho - Tiền Giang",
+      "email": "khoa@gmail.com",
+      "phone": "0857491449",
+      "date": "13/07/2000",
+      "total_money": "21000",
+      "quantity": 1,
+      "id": 4
+    },
+    {
+      "time_order": "22/3/2021",
+      "name": "Khoa",
+      "address": "Phường 2, Mỹ Tho - Tiền Giang",
+      "email": "khoanguyen.491449@gmail.com",
+      "phone": "0857491449",
+      "date": "13/07/2000",
+      "total_money": "18000",
+      "quantity": 1,
+      "id": 5
+    },
+    {
+      "time_order": "22/4/2021",
+      "name": "HKhoa",
+      "address": "Phường 2, Mỹ Tho - Tiền Giang",
+      "email": "Khoa1@gmail.com",
+      "phone": "0857491449",
+      "date": "13/07/2000",
+      "total_money": "430000",
+      "quantity": 1,
+      "id": 6
+    },
+    {
+      "time_order": "22/4/2021",
+      "name": "Khoaấdad",
+      "address": "Phường 2, Mỹ Tho - Tiền Giang",
+      "email": "datsida2071@gmail.com",
+      "phone": "0857491449",
+      "date": "12/07/2000",
+      "total_money": "1000",
+      "quantity": 1,
+      "id": 7
+    },
+    {
+      "time_order": "22/4/2021",
+      "name": "Khoa11",
+      "address": "Phường 2, Mỹ Tho - Tiền Giang",
+      "email": "khoanguyen1.491449@gmail.com",
+      "phone": "0857491449",
+      "date": "12/09/2000",
+      "total_money": "1000",
+      "quantity": 1,
+      "id": 8
+    }
+  ],
+  "order_details": [
+    {
+      "order_id": 1,
+      "product_id": 12,
+      "quantity": 1,
+      "unit_price": 18000,
+      "id": 1
+    },
+    {
+      "order_id": 2,
+      "product_id": 16,
+      "quantity": 1,
+      "unit_price": 52000,
+      "id": 2
+    },
+    {
+      "order_id": 3,
+      "product_id": 14,
+      "quantity": 1,
+      "unit_price": 21000,
+      "id": 3
+    },
+    {
+      "order_id": 4,
+      "product_id": 14,
+      "quantity": 1,
+      "unit_price": 21000,
+      "id": 4
+    },
+    {
+      "order_id": 5,
+      "product_id": 12,
+      "quantity": 1,
+      "unit_price": 18000,
+      "id": 5
+    },
+    {
+      "order_id": 6,
+      "product_id": 4,
+      "quantity": 1,
+      "unit_price": 430000,
+      "id": 6
+    },
+    {
+      "order_id": 7,
+      "product_id": 33,
+      "quantity": 1,
+      "unit_price": "1000",
+      "id": 7
+    },
+    {
+      "order_id": 8,
+      "product_id": 33,
+      "quantity": 1,
+      "unit_price": "1000",
+      "id": 8
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+<%- include('../partials/head.ejs'); %>
+    <title>Checkout</title>
+    </head>
+
+    <body>
+        <div class="page">
+            <!-- Header -->
+            <%- include('../partials/header.ejs'); %>
+                <!-- end header -->
+                <!-- Navbar -->
+                <%- include('../partials/nav.ejs'); %>
+                    <!-- end nav -->
+                    <!-- breadcrumbs -->
+                    <div class="breadcrumbs">
+                        <div class="container">
+                            <div class="row">
+                                <ul>
+                                    <li class="home"> <a title="Go to Home Page" href="http://www.magikcommerce.com/">Home</a><span>&mdash;›</span></li>
+                                    <li class="category13"><strong>About Us</strong></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- main-container -->
+                    <div class="main-container col2-right-layout">
+                        <div class="main container">
+                            <div class="row">
+                                <section class="col-main col-sm-9 wow">
+                                    <div class="page-title">
+                                        <h2>Contact Us</h2>
+                                    </div>
+                                    <div class="static-contain">
+                                        <fieldset class="group-select">
+                                            <ul>
+                                                <li id="billing-new-address-form">
+                                                    <fieldset>
+                                                        <legend>New Address</legend>
+                                                        <input type="hidden" name="billing[address_id]" value="" id="billing:address_id">
+                                                        <ul>
+                                                            <li>
+                                                                <div class="customer-name">
+                                                                    <div class="input-box name-firstname">
+                                                                        <label for="name"> Full Name <span class="required">*</span></label>
+                                                                        <br>
+                                                                        <input type="text" id="name" name="name" value="" title="First Name" class="input-text ">
+                                                                    </div>
+                                                                    <div class="input-box name-lastname">
+                                                                        <label for="email"> Email <span class="required">*</span> </label>
+                                                                        <br>
+                                                                        <input type="text" id="email" name="email" value="" title="Last Name" class="input-text">
+                                                                    </div>
+                                                                </div>
+                                                            </li>
+                                                            <li>
+                                                                <div class="input-box">
+                                                                    <label for="date">Ngày sinh <span class="required">*</span></label>
+                                                                    <br>
+                                                                    <input type="text" id="date" name="data" value="" title="Company" class="input-text">
+                                                                </div>
+                                                                <div class="input-box">
+                                                                    <label for="phone">Telephone <span class="required">*</span></label>
+                                                                    <br>
+                                                                    <input type="text" name="phone" id="phone" value="" title="Email Address" class="input-text validate-email">
+                                                                </div>
+                                                            </li>
+                                                            <li>
+                                                                <label for="Address">Address <span class="required">*</span> </label>
+                                                                <br>
+                                                                <input type="text" title="Street Address" name="address" id="address" value="" class="input-text required-entry">
+                                                            </li>
+                                                        </ul>
+                                                    </fieldset>
+                                                </li>
+                                                <p class="require"><em class="required">* </em>Required Fields</p>
+                                                <div class="buttons-set">
+                                                    <button onclick="checkout()" type="button" title="Submit" class="button submit"> <span> Submit </span> </button>
+                                                </div>
+                                            </ul>
+                                        </fieldset>
+                                    </div>
+                                </section>
+                                <aside class="col-right sidebar col-sm-3 wow">
+                                    <div class="block block-company">
+                                        <div class="block-title">Company </div>
+                                        <div class="block-content">
+                                            <ol id="recently-viewed-items">
+                                                <li class="item odd"><a href="#">About Us</a></li>
+                                                <li class="item even"><a href="#">Sitemap</a></li>
+                                                <li class="item  odd"><a href="#">Terms of Service</a></li>
+                                                <li class="item even"><a href="#">Search Terms</a></li>
+                                                <li class="item last"><strong>Contact Us</strong></li>
+                                            </ol>
+                                        </div>
+                                    </div>
+                                </aside>
+                            </div>
+                        </div>
+                    </div>
+                    <!--End main-container -->
+                    <!-- Footer -->
+                    <%- include('../partials/footer.ejs'); %>
+                        <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+                        <script src="/js/checkout.js"></script>
+    </body>
+
+    </html>

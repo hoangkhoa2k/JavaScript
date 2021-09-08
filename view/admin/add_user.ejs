@@ -1,0 +1,52 @@
+<%- include('head.ejs'); %>
+    <title>Add User</title>
+    </head>
+
+    <body>
+        <!-- Left Panel -->
+        <%- include('nav.ejs'); %>
+            <!-- /Widgets -->
+            <!--  Traffic  -->
+            <div class="col-lg-14">
+                <div class="card">
+                    <div class="card-header">
+                        <h2><strong class="card-title">Insert User</strong></h2>
+                    </div>
+                    <div class="card-body card-block">
+                        <form action="" method="post" enctype="multipart/form-data" class="form-horizontal row">
+                            <input type="hidden" class="form-control" name="id" id="id" value="0">
+                            <div class="col-lg-12">
+                                <div class="row form-group">
+                                    <div class="col col-md-3"><label for="name" class=" form-control-label">Name</label></div>
+                                    <div class="col-12 col-md-9"><input type="text" id="name" name="name" placeholder="Name..." class="form-control"></div>
+                                </div>
+                                <div class="row form-group">
+                                    <div class="col col-md-3"><label for="email" class=" form-control-label">Email</label></div>
+                                    <div class="col-12 col-md-9"><input type="text" id="email" name="email" placeholder="Email..." class="form-control"></div>
+                                </div>
+                                <div class="row form-group">
+                                    <div class="col col-md-3"><label for="phone" class=" form-control-label">Phone</label></div>
+                                    <div class="col-12 col-md-9"><input type="text" id="phone" name="phone" placeholder="Enter Phone..." class="form-control"></div>
+                                </div>
+                                <div class="row form-group">
+                                    <div class="col col-md-3"><label for="date" class=" form-control-label">Date</label></div>
+                                    <div class="col-12 col-md-9"><input type="date" id="date" name="date" placeholder="Enter Date..." class="form-control"></div>
+                                </div>
+                                <div class="row form-group">
+                                    <div class="col col-md-3"><label for="address" class="form-control-label">Address</label></div>
+                                    <div class="col-12 col-md-9"><textarea name="address" id="address" rows="9" placeholder="Address..." class="form-control"></textarea></div>
+                                </div>
+                            </div>
+                            <button type="button" onclick="submitForm(0)" class="btn btn-primary mt-2 mr-3 ml-auto">Insert</button>
+                            <!-- <input onclick="submitForm()" type="submit" value="Insert" class="btn btn-primary mt-2 mr-3 ml-auto"> -->
+                        </form>
+                    </div>
+
+                </div>
+            </div>
+            <!-- Modal - Calendar - Add New Event -->
+            <%- include('footer.ejs'); %>
+                <script src="/js/user.js"></script>
+    </body>
+
+    </html>

@@ -1,0 +1,75 @@
+<%- include('head.ejs'); %>
+    <title>Add Products</title>
+    </head>
+
+    <body>
+        <!-- Left Panel -->
+        <%- include('nav.ejs'); %>
+            <!-- /Widgets -->
+            <!--  Traffic  -->
+            <div class="col-lg-14">
+                <div class="card">
+                    <div class="card-header">
+                        <h2><strong class="card-title">Insert Products</strong></h2>
+                    </div>
+                    <div class="card-body card-block">
+                        <form action="" method="post" enctype="multipart/form-data" class="form-horizontal row">
+                            <input type="hidden" class="form-control" name="id" id="id" value="0">
+                            <div class="col-lg-5">
+                                <div id="khunganh" class="box" style="width:250px;height:300px;background:aqua;border-radius:10px;"></div>
+                                <div class="col-12 col-md-9"><input type="file" onchange="anh();" class="mt-3" name="images" id="images"></div>
+                            </div>
+                            <div class="col-lg-7">
+                                <div class="row form-group">
+                                    <div class="col col-md-3"><label for="name" class=" form-control-label">Name</label></div>
+                                    <div class="col-12 col-md-9"><input type="text" id="name" name="name" placeholder="Name..." class="form-control"></div>
+                                </div>
+                                <div class="row form-group">
+                                    <div class="col col-md-3"><label for="price" class=" form-control-label">Price</label></div>
+                                    <div class="col-12 col-md-9"><input type="text" id="price" name="price" placeholder="Price..." class="form-control"></div>
+                                </div>
+                                <div class="row form-group">
+                                    <div class="col col-md-3"><label for="discount" class=" form-control-label">Discount</label></div>
+                                    <div class="col-12 col-md-9"><input type="text" id="discount" name="discount" placeholder="Enter Discount..." class="form-control"></div>
+                                </div>
+                                <div class="row form-group">
+                                    <div class="col col-md-3"><label for="detail" class="form-control-label">Detail</label></div>
+                                    <div class="col-12 col-md-9"><textarea name="detail" id="detail" rows="9" placeholder="Detail..." class="form-control"></textarea></div>
+                                </div>
+                            </div>
+                            <button type="button" onclick="submitForm(0)" class="btn btn-primary mt-2 mr-3 ml-auto">Insert</button>
+                            <!-- <input onclick="submitForm()" type="submit" value="Insert" class="btn btn-primary mt-2 mr-3 ml-auto"> -->
+                        </form>
+                    </div>
+
+                </div>
+            </div>
+            <script>
+                var i = 0;
+
+                function anh() {
+                    if (i == 0) {
+                        var hinh = document.getElementById('images');
+                        var khunganh = document.getElementById('khunganh');
+                        var img = hinh.value;
+                        img = img.slice(12, img.length)
+                        var anh = document.createElement("img")
+                        anh.src = "/products-images/" + img
+                        var newelement = khunganh.appendChild(anh);
+                        i = 1;
+                    } else {
+                        var hinh = document.getElementById('images');
+                        var khunganh = document.getElementById('khunganh').firstElementChild;
+                        var img = hinh.value;
+                        img = img.slice(12, img.length)
+                        khunganh.src = "/products-images/" + img;
+                        i = 0;
+                    }
+                }
+            </script>
+            <!-- Modal - Calendar - Add New Event -->
+            <%- include('footer.ejs'); %>
+                <script src="/js/products.js"></script>
+    </body>
+
+    </html>

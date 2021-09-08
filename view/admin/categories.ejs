@@ -1,0 +1,38 @@
+<%- include('head.ejs'); %>
+    <title>Categories</title>
+    </head>
+
+    <body>
+        <!-- Left Panel -->
+        <%- include('nav.ejs'); %>
+            <!-- /Widgets -->
+            <!--  Traffic  -->
+            <div class="col-lg-14">
+                <div class="card">
+                    <div class="card-header">
+                        <h2><strong class="card-title">List Categories</strong></h2>
+                    </div>
+
+                    <div class="card-body">
+                        <a href="/admin/add_categories" class="btn btn-info mb-2">Insert</a>
+                        <table class="table">
+                            <thead>
+                                <tr>
+                                    <th scope="col" style="width: 1%;">ID</th>
+                                    <th scope="col" style="width: 17%;">Name</th>
+                                    <th scope="col" style="width: 11%;"></th>
+                                </tr>
+                            </thead>
+                            <tbody id="table-body"></tbody>
+                        </table>
+                    </div>
+
+                </div>
+            </div>
+
+            <!-- Modal - Calendar - Add New Event -->
+            <%- include('footer.ejs'); %>
+                <script src="/js/categories.js"></script>
+    </body>
+
+    </html>

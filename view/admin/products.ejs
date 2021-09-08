@@ -1,0 +1,43 @@
+<%- include('head.ejs'); %>
+    <title>Products</title>
+    </head>
+
+    <body>
+        <!-- Left Panel -->
+        <%- include('nav.ejs'); %>
+            <!-- /Widgets -->
+            <!--  Traffic  -->
+            <div class="col-lg-14">
+                <div class="card">
+                    <div class="card-header">
+                        <h2><strong class="card-title">List Products</strong></h2>
+                    </div>
+
+                    <div class="card-body">
+                        <a href="/admin/add_products" class="btn btn-info mb-2">Insert</a>
+                        <table class="table">
+                            <thead>
+                                <tr>
+                                    <th scope="col" style="width: 1%;">ID</th>
+                                    <th scope="col" style="width: 10%;">Image</th>
+                                    <th scope="col" style="width: 17%;">Name</th>
+                                    <th scope="col" style="width: 1%;">Cost</th>
+                                    <th scope="col" style="width: 1%;">Price</th>
+                                    <th scope="col" style="width: 35%;">Description</th>
+                                    <th scope="col" style="width: 11%;"></th>
+                                </tr>
+                            </thead>
+                            <tbody id="table-body"></tbody>
+                        </table>
+                    </div>
+
+                </div>
+            </div>
+
+            <!-- Modal - Calendar - Add New Event -->
+            <%- include('footer.ejs'); %>
+                <script src="../assets/js/main.js"></script>
+                <script src="/js/products.js"></script>
+    </body>
+
+    </html>
